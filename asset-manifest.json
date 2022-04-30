@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mektefaie/i-heart-react/static/css/main.9cfda069.css",
-    "main.js": "/mektefaie/i-heart-react/static/js/main.b4930d49.js",
-    "static/js/787.aebb82e4.chunk.js": "/mektefaie/i-heart-react/static/js/787.aebb82e4.chunk.js",
-    "index.html": "/mektefaie/i-heart-react/index.html",
-    "main.9cfda069.css.map": "/mektefaie/i-heart-react/static/css/main.9cfda069.css.map",
-    "main.b4930d49.js.map": "/mektefaie/i-heart-react/static/js/main.b4930d49.js.map",
-    "787.aebb82e4.chunk.js.map": "/mektefaie/i-heart-react/static/js/787.aebb82e4.chunk.js.map"
+    "main.css": "/mektefaie/i-heart-react.git/static/css/main.9cfda069.css",
+    "main.js": "/mektefaie/i-heart-react.git/static/js/main.2e7c730f.js",
+    "static/js/787.aebb82e4.chunk.js": "/mektefaie/i-heart-react.git/static/js/787.aebb82e4.chunk.js",
+    "index.html": "/mektefaie/i-heart-react.git/index.html",
+    "main.9cfda069.css.map": "/mektefaie/i-heart-react.git/static/css/main.9cfda069.css.map",
+    "main.2e7c730f.js.map": "/mektefaie/i-heart-react.git/static/js/main.2e7c730f.js.map",
+    "787.aebb82e4.chunk.js.map": "/mektefaie/i-heart-react.git/static/js/787.aebb82e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cfda069.css",
-    "static/js/main.b4930d49.js"
+    "static/js/main.2e7c730f.js"
   ]
 }
